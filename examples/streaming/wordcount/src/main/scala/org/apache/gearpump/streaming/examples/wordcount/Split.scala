@@ -46,6 +46,7 @@ class Split(taskContext: TaskContext, conf: UserConfig) extends Task(taskContext
   }
 }
 
+
 object Split {
   val TEXT_TO_SPLIT =
     """
